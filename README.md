@@ -12,13 +12,14 @@
 - 🔭 I’m currently working on
   - New CAPTCHA component that will make your life easier
   - _Trying_ to contribute to some opensource projects
+  - Wordle clone but in Thai
 - 🌱 I’m currently learning
   -  TypeScript
   -  iOS Application Development
   -  Rust
 - 👯 I’m looking to collaborate on
   - React library
-  - Opensource project that applicable to real world
+  - Opensource projects that are applicable to real world
 
 ## Contact Information
   - ✉️ pakanon.pantisawat@gmail.com
