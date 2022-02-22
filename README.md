@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on
   - New CAPTCHA component that will make your life easier
   - _Trying_ to contribute to some opensource projects
-  - Wordle clone but in Thai
+  - Wordle clone but in Thai. [Give it a try?](https://thai-wordle.luckyboi.dev/)
 - 🌱 I’m currently learning
   -  TypeScript
   -  iOS Application Development
