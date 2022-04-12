@@ -14,9 +14,9 @@
   - _Trying_ to contribute to some opensource projects
   - Wordle clone but in Thai. [Give it a try?](https://thai-wordle.luckyboi.dev/)
 - 🌱 I’m currently learning
-  -  TypeScript
+  -  Advance TypeScript concept
   -  iOS Application Development
-  -  Rust
+  -  Go
 - 👯 I’m looking to collaborate on
   - React library
   - Opensource projects that are applicable to real world
